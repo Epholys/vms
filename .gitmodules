@@ -1,0 +1,3 @@
+[submodule "lib/dynarr"]
+	path = lib/dynarr
+	url = https://github.com/Epholys/dynarr.git
